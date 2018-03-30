@@ -20,6 +20,7 @@ function nowServing(array){
   else
     var s = "Currently serving " + array[0];
     array.shift();
+    return s;
 }
 
 
