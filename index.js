@@ -15,7 +15,7 @@ function takeANumber(array, name){
 //if there is nobody in line return "there is nobody waiting to be served!
 function nowServing(array){
   if (array.length === 0) {
-    return 'Thereis nobody waiting to be served!';
+    return 'There is nobody waiting to be served!';
   }  
 }
 
