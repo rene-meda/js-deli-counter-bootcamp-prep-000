@@ -4,7 +4,7 @@ var katzDeli = [];
 var katzDeliLine = [];
 
 function takeANumber(array, name){
-  var s = "You are number x in line";
+  var s = `Welcome, ${name}`"You are number x in line";
   
   return s;
   
