@@ -22,10 +22,10 @@ function currentLine(array){
     return "The line is currently empty.";
   }
     else
-      var s = '';
+      var s = [];
       for (var i=0; i < array.length; i++){
-    
-    
-  }
+      
+      
+      }
   
 }
