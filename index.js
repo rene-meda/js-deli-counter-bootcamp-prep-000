@@ -39,6 +39,6 @@ function currentLine(array){
 
 do {
   
-} while () {
+} while (); {
   
 }
