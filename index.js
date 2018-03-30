@@ -4,8 +4,8 @@ var katzDeli = [];
 var katzDeliLine = [];
 
 function takeANumber(array, name){
-  var String
+  var s;
   
-  return string;
+  return s;
   
 }
