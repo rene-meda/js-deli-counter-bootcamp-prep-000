@@ -29,7 +29,7 @@ function currentLine(array){
     return "The line is currently empty.";
   }
     else
-      s = "";
+      var s = "";
       for (var i=0; i < array.length; i++){
         s += i + 1 + '.'  + array[i];
       }
