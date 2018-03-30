@@ -13,7 +13,7 @@ function takeANumber(array, name){
 
 //return the first person in line and remove 'em
 //if there is nobody in line return "there is nobody waiting to be served!
-function nowServing(){
+function nowServing(array){
   
 }
 
