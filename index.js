@@ -31,7 +31,7 @@ function currentLine(array){
     else
       var s = "";
       for (var i=0; i < array.length; i++){
-        if (array[i] === 3){
+        if (i === 3){
           s += i + 1 + '.'+ " " + array[i] ;
         }
         else
