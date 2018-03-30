@@ -34,6 +34,6 @@ function currentLine(array){
         s.push( i + 1 + '. ' + array[i]);
         s.push(" ");
       }
-      return "The line is currently: " + s + "";
+      return "The line is currently: " + s ;
   
 }
