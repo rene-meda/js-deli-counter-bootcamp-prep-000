@@ -1,6 +1,8 @@
 
 var katzDeli = [];
 
-function takeANumber(array, ){
+var katzDeliLine = [];
+
+function takeANumber(array, name){
   
 }
