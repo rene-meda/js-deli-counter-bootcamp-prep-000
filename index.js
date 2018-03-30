@@ -31,6 +31,7 @@ function currentLine(array){
     else
       var s = "";
       for (var i=0; i < array.length; i++){
+        if (array[i] < array.length )
         s += i + 1 + '.'+ " " + array[i];
       }
       return "The line is currently: " + s ;
