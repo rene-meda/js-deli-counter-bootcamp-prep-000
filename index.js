@@ -9,3 +9,8 @@ function takeANumber(array, name){
   return s;
   
 }
+
+//return the first person in line and remove 'em
+function nowServing(){
+  
+}
